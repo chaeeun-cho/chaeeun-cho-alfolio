@@ -18,8 +18,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome! I am an Assistant Professor at Bilket University. My research lies at the intersection of international security, international political economy, and political methodology, with a particular focus on economic statecraft.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+A central interest of my work is understanding how different types of actors in the international system could affect the implementation of economic statecraft. This research agenda is motivated by the observation that the effectiveness of economic statecraft is often shaped by the behavior of different actors in the international system. My dissertation examines the conditions under which third-party states and private actors cooperate on economic sanctions, as well as the strategies that governments can use to promote firms’ compliance with sanctions policies. Additionally, my research portfolio contains studies on topics such as threat perception and text analysis.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+
+I received my Ph.D. in Political Science from Vanderbilt University. Before my Ph.D., I earned a Bachelor of Political Science and Communciation from University of Washington at Seattle and a M.A. degree in International Relations from Seoul National University.
+
+Email: chaeeun.cho[at]bilkent.edu.tr
+
